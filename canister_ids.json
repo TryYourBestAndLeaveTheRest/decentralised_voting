@@ -1,0 +1,8 @@
+{
+  "decentralised_voting_backend": {
+    "ic": "hbx4b-siaaa-aaaag-alklq-cai"
+  },
+  "decentralised_voting_frontend": {
+    "ic": "gmzyp-5aaaa-aaaag-alkma-cai"
+  }
+}
